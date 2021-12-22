@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn</string>
+    <string name="please_enter_the_id_number">Please enter the Id number</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="submit">Submit</string>
+</resources>
